@@ -1,0 +1,25 @@
+{
+  "name": "clearkeys",
+  "version": "0.1.0",
+  "description": "clear keys for object and its child nodes",
+  "main": "index.js",
+  "repository": "git://github.com/supersheep/clearkeys.git",
+  "keywords": [
+    "clearkeys"
+  ],
+  "scripts":{
+    "test":"./node_modules/.bin/mocha test"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "supersheep",
+    "email": "supersheepxjy@gmail.com"
+  },
+  "bugs": {
+    "url": "http://github.com/supersheep/clearkeys/issues"
+  },
+  "homepage": "http://github.com/supersheep/clearkeys",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
